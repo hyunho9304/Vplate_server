@@ -1,1 +1,3 @@
-Vplate_server
+## SOPT App Jam
+
+2017.01.01 ~ 2017.01.14
