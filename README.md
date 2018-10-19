@@ -1,6 +1,6 @@
 ##2017년 하반기 SOPT App Jam( Vplate )
 
-![img](/Users/hyunho/Desktop/vplate@3x.jpg) 
+![](./vplateLogo.jpg) 
 
 
 
