@@ -1,4 +1,4 @@
-##2017년 하반기 SOPT App Jam( Vplate )
+## 2017년 하반기 SOPT App Jam( Vplate )
 
 ![](./vplateLogo.jpg) 
 
